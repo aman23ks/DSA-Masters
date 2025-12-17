@@ -13,7 +13,6 @@ class Solution:
                 if i == j:
                     if nums[i] != val:
                         return i+1
-                #     return i+1
             elif nums[i] == val:
                 while nums[j] == val:
                     j -= 1
