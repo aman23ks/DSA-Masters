@@ -1,16 +1,28 @@
-from typing import List
-
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         i = 0
+        j = 0
+        length = 0
         s = 0
         mini = float("inf")
-
-        for j in range(len(nums)):
-            s += nums[j]
-            while s >= target:
-                mini = min(mini, j - i + 1)
+        while j<len(nums):
+            if s<target:
+                s+=nums[j]
+                length += 1
+                j += 1
+            else:
+                mini = min(length, mini)
                 s -= nums[i]
                 i += 1
-
-        return 0 if mini == float("inf") else mini
+                length -= 1
+        
+        while i<len(nums):
+            if s >= target:
+                mini = min(length, mini)
+            s -= nums[i]
+            i += 1
+            length -= 1
+        
+        if mini == float(inf):
+            return 0
+        return mini
