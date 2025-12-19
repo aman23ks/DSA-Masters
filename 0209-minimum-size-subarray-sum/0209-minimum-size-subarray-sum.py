@@ -23,6 +23,6 @@ class Solution:
             i += 1
             length -= 1
         
-        if mini == float(inf):
+        if mini == float("inf"):
             return 0
         return mini
