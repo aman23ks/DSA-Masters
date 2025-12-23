@@ -10,34 +10,35 @@ class Solution:
         
         if headA == headB:
             return headA
-
-        countA = 0
-        countB = 0
-
-        count_headA = headA
-        count_headB = headB
-
-        while count_headA:
-            countA += 1
-            count_headA = count_headA.next
         
-        while count_headB:
-            countB += 1
-            count_headB = count_headB.next
-
         currA = headA
-        currB = headB
-        while currA and currB:
-            if currA == currB:
-                return currA
-            if countA > countB:
-                countA -= 1
-                currA = currA.next
-            elif countA < countB:
-                countB -= 1
-                currB = currB.next
-            else:
-                currA = currA.next
-                currB = currB.next
+
+        while currA.next:
+            currA=currA.next
+
+        currA.next = headA
+
+        slow = headB
+        fast = headB
+        has_cycle = False
+
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
+                has_cycle = True 
+                break
         
-        return None
+        if not has_cycle:
+            currA.next = None
+            return None
+        
+        ptr1 = headB
+        ptr2 = slow
+
+        while ptr1 != ptr2:
+            ptr1 = ptr1.next
+            ptr2 = ptr2.next
+        
+        currA.next = None
+        return ptr1
