@@ -10,35 +10,12 @@ class Solution:
         
         if headA == headB:
             return headA
+       
+        a = headA
+        b = headB
+
+        while a is not b:
+            a = a.next if a else headB
+            b = b.next if b else headA
         
-        currA = headA
-
-        while currA.next:
-            currA=currA.next
-
-        currA.next = headA
-
-        slow = headB
-        fast = headB
-        has_cycle = False
-
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-            if slow == fast:
-                has_cycle = True 
-                break
-        
-        if not has_cycle:
-            currA.next = None
-            return None
-        
-        ptr1 = headB
-        ptr2 = slow
-
-        while ptr1 != ptr2:
-            ptr1 = ptr1.next
-            ptr2 = ptr2.next
-        
-        currA.next = None
-        return ptr1
+        return a
