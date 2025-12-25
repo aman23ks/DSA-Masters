@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman23ks/DSA-Masters/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
+| [0643-maximum-average-subarray-i](https://github.com/aman23ks/DSA-Masters/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23ks/DSA-Masters/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/aman23ks/DSA-Masters/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
