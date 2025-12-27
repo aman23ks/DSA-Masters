@@ -20,7 +20,7 @@ class Solution:
         while j < n:
             hashmap[s[j]] += 1
             maxfreq = self.update_max_freq(hashmap, maxfreq)
-            if ((j-i+1) - maxfreq) <= k:
+            if ((j-i) - maxfreq) < k:
                 j += 1
                 maxlen += 1
                 ans = max(maxlen, ans)
