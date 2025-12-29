@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/aman23ks/DSA-Masters/tree/master/1695-maximum-erasure-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman23ks/DSA-Masters/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/aman23ks/DSA-Masters/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/aman23ks/DSA-Masters/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
 |  |
 | ------- |
