@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aman23ks/DSA-Masters/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aman23ks/DSA-Masters/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman23ks/DSA-Masters/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aman23ks/DSA-Masters/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 ## Hash Table
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/aman23ks/DSA-Masters/tree/master/1695-maximum-erasure-value) |
 ## Dynamic Programming
