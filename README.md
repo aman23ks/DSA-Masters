@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aman23ks/DSA-Masters/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/aman23ks/DSA-Masters/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/aman23ks/DSA-Masters/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
