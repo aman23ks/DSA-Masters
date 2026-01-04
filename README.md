@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman23ks/DSA-Masters/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/aman23ks/DSA-Masters/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aman23ks/DSA-Masters/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aman23ks/DSA-Masters/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aman23ks/DSA-Masters/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aman23ks/DSA-Masters/tree/master/0042-trapping-rain-water) |
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman23ks/DSA-Masters/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aman23ks/DSA-Masters/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aman23ks/DSA-Masters/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aman23ks/DSA-Masters/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0234-palindrome-linked-list) |
