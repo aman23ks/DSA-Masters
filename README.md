@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/aman23ks/DSA-Masters/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman23ks/DSA-Masters/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/aman23ks/DSA-Masters/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
+## Line Sweep
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/aman23ks/DSA-Masters/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
