@@ -228,8 +228,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
+| [0715-range-module](https://github.com/aman23ks/DSA-Masters/tree/master/0715-range-module) |
 ## Line Sweep
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/aman23ks/DSA-Masters/tree/master/0986-interval-list-intersections) |
+## Segment Tree
+|  |
+| ------- |
+| [0715-range-module](https://github.com/aman23ks/DSA-Masters/tree/master/0715-range-module) |
+## Ordered Set
+|  |
+| ------- |
+| [0715-range-module](https://github.com/aman23ks/DSA-Masters/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
