@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/aman23ks/DSA-Masters/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/aman23ks/DSA-Masters/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aman23ks/DSA-Masters/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
