@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aman23ks/DSA-Masters/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman23ks/DSA-Masters/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman23ks/DSA-Masters/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aman23ks/DSA-Masters/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aman23ks/DSA-Masters/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -242,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/aman23ks/DSA-Masters/tree/master/0715-range-module) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
