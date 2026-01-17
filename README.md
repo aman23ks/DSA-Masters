@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aman23ks/DSA-Masters/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/aman23ks/DSA-Masters/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aman23ks/DSA-Masters/tree/master/0724-find-pivot-index) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aman23ks/DSA-Masters/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman23ks/DSA-Masters/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman23ks/DSA-Masters/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/1288-remove-covered-intervals) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/aman23ks/DSA-Masters/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/aman23ks/DSA-Masters/tree/master/1695-maximum-erasure-value) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
@@ -250,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
