@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/aman23ks/DSA-Masters/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/aman23ks/DSA-Masters/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/aman23ks/DSA-Masters/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
@@ -268,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aman23ks/DSA-Masters/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/aman23ks/DSA-Masters/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
