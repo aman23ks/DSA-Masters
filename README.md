@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/aman23ks/DSA-Masters/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/aman23ks/DSA-Masters/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/aman23ks/DSA-Masters/tree/master/0724-find-pivot-index) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
+| [0704-binary-search](https://github.com/aman23ks/DSA-Masters/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
