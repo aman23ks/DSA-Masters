@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/aman23ks/DSA-Masters/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/aman23ks/DSA-Masters/tree/master/0704-binary-search) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aman23ks/DSA-Masters/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
