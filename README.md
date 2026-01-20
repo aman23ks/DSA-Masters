@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aman23ks/DSA-Masters/tree/master/0724-find-pivot-index) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/aman23ks/DSA-Masters/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aman23ks/DSA-Masters/tree/master/0986-interval-list-intersections) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/aman23ks/DSA-Masters/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/aman23ks/DSA-Masters/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
