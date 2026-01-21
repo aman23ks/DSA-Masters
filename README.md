@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman23ks/DSA-Masters/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aman23ks/DSA-Masters/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1695-maximum-erasure-value](https://github.com/aman23ks/DSA-Masters/tree/master/1695-maximum-erasure-value) |
+| [1818-minimum-absolute-sum-difference](https://github.com/aman23ks/DSA-Masters/tree/master/1818-minimum-absolute-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/1288-remove-covered-intervals) |
+| [1818-minimum-absolute-sum-difference](https://github.com/aman23ks/DSA-Masters/tree/master/1818-minimum-absolute-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/aman23ks/DSA-Masters/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
+| [1818-minimum-absolute-sum-difference](https://github.com/aman23ks/DSA-Masters/tree/master/1818-minimum-absolute-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/aman23ks/DSA-Masters/tree/master/0715-range-module) |
+| [1818-minimum-absolute-sum-difference](https://github.com/aman23ks/DSA-Masters/tree/master/1818-minimum-absolute-sum-difference) |
 ## Simulation
 |  |
 | ------- |
