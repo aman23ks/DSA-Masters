@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/aman23ks/DSA-Masters/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman23ks/DSA-Masters/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/1288-remove-covered-intervals) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/aman23ks/DSA-Masters/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aman23ks/DSA-Masters/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aman23ks/DSA-Masters/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1818-minimum-absolute-sum-difference](https://github.com/aman23ks/DSA-Masters/tree/master/1818-minimum-absolute-sum-difference) |
 ## Sliding Window
 |  |
