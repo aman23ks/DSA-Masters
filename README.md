@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman23ks/DSA-Masters/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman23ks/DSA-Masters/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman23ks/DSA-Masters/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/aman23ks/DSA-Masters/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/aman23ks/DSA-Masters/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/aman23ks/DSA-Masters/tree/master/0713-subarray-product-less-than-k) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aman23ks/DSA-Masters/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aman23ks/DSA-Masters/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aman23ks/DSA-Masters/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aman23ks/DSA-Masters/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
