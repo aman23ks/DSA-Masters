@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman23ks/DSA-Masters/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aman23ks/DSA-Masters/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aman23ks/DSA-Masters/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/aman23ks/DSA-Masters/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman23ks/DSA-Masters/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aman23ks/DSA-Masters/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman23ks/DSA-Masters/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aman23ks/DSA-Masters/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/aman23ks/DSA-Masters/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/aman23ks/DSA-Masters/tree/master/0621-task-scheduler) |
 ## Interactive
 |  |
@@ -311,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
