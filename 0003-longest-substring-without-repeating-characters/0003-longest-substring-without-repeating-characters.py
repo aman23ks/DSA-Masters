@@ -1,23 +1,17 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        l = 0
-        r = 0
-        length = 0
-        maxi = 0
-        hashmap = dict()
-        while r<len(s):
-            if s[r] not in hashmap:
-                hashmap[s[r]] = r
-                length = r-l+1
-                r += 1
-                maxi = max(length, maxi)
-            else:
-                if hashmap[s[r]] >= l:
-                    l = hashmap[s[r]] + 1
-                hashmap[s[r]] = r
-                length = r-l+1
-                maxi = max(length, maxi)
-                r+=1
-        return maxi
-    
-                
+        if len(s) == 1:
+            return 1
+        
+        maxlen = 0
+        hashmap = {}
+        start = 0  # To keep track of the start of the window
+        
+        for i in range(len(s)):
+            if s[i] in hashmap and hashmap[s[i]] >= start:
+                start = hashmap[s[i]] + 1  # Move the start to the right of the previous occurrence
+            
+            hashmap[s[i]] = i  # Update the last seen index of the character
+            maxlen = max(maxlen, i - start + 1)  # Update the max length of the window
+
+        return maxlen
