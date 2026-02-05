@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aman23ks/DSA-Masters/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aman23ks/DSA-Masters/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aman23ks/DSA-Masters/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/aman23ks/DSA-Masters/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aman23ks/DSA-Masters/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman23ks/DSA-Masters/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aman23ks/DSA-Masters/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aman23ks/DSA-Masters/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aman23ks/DSA-Masters/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/aman23ks/DSA-Masters/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman23ks/DSA-Masters/tree/master/0438-find-all-anagrams-in-a-string) |
