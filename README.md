@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/aman23ks/DSA-Masters/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/aman23ks/DSA-Masters/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/aman23ks/DSA-Masters/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aman23ks/DSA-Masters/tree/master/0283-move-zeroes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aman23ks/DSA-Masters/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/aman23ks/DSA-Masters/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/aman23ks/DSA-Masters/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aman23ks/DSA-Masters/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aman23ks/DSA-Masters/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aman23ks/DSA-Masters/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aman23ks/DSA-Masters/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/aman23ks/DSA-Masters/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/aman23ks/DSA-Masters/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/aman23ks/DSA-Masters/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
