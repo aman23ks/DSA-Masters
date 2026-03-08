@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/aman23ks/DSA-Masters/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aman23ks/DSA-Masters/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/aman23ks/DSA-Masters/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/aman23ks/DSA-Masters/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aman23ks/DSA-Masters/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/aman23ks/DSA-Masters/tree/master/0303-range-sum-query-immutable) |
 | [0715-range-module](https://github.com/aman23ks/DSA-Masters/tree/master/0715-range-module) |
 ## Line Sweep
