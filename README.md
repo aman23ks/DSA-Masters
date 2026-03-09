@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/aman23ks/DSA-Masters/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman23ks/DSA-Masters/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aman23ks/DSA-Masters/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman23ks/DSA-Masters/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/aman23ks/DSA-Masters/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aman23ks/DSA-Masters/tree/master/0560-subarray-sum-equals-k) |
@@ -231,10 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aman23ks/DSA-Masters/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aman23ks/DSA-Masters/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aman23ks/DSA-Masters/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
 | ------- |
