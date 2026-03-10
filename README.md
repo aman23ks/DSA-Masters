@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aman23ks/DSA-Masters/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aman23ks/DSA-Masters/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aman23ks/DSA-Masters/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/aman23ks/DSA-Masters/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman23ks/DSA-Masters/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aman23ks/DSA-Masters/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aman23ks/DSA-Masters/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aman23ks/DSA-Masters/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/aman23ks/DSA-Masters/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aman23ks/DSA-Masters/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
