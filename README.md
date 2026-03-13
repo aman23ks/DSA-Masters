@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/aman23ks/DSA-Masters/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aman23ks/DSA-Masters/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/aman23ks/DSA-Masters/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/aman23ks/DSA-Masters/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman23ks/DSA-Masters/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman23ks/DSA-Masters/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/aman23ks/DSA-Masters/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aman23ks/DSA-Masters/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aman23ks/DSA-Masters/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/aman23ks/DSA-Masters/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aman23ks/DSA-Masters/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/aman23ks/DSA-Masters/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aman23ks/DSA-Masters/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/aman23ks/DSA-Masters/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0503-next-greater-element-ii) |
 ## Enumeration
