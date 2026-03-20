@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/aman23ks/DSA-Masters/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/aman23ks/DSA-Masters/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0844-backspace-string-compare](https://github.com/aman23ks/DSA-Masters/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/aman23ks/DSA-Masters/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman23ks/DSA-Masters/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aman23ks/DSA-Masters/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman23ks/DSA-Masters/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/aman23ks/DSA-Masters/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman23ks/DSA-Masters/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aman23ks/DSA-Masters/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/aman23ks/DSA-Masters/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/aman23ks/DSA-Masters/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aman23ks/DSA-Masters/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aman23ks/DSA-Masters/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/aman23ks/DSA-Masters/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/aman23ks/DSA-Masters/tree/master/1094-car-pooling) |
 ## Counting
 |  |
