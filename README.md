@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/aman23ks/DSA-Masters/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aman23ks/DSA-Masters/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aman23ks/DSA-Masters/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/aman23ks/DSA-Masters/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/aman23ks/DSA-Masters/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/aman23ks/DSA-Masters/tree/master/0394-decode-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aman23ks/DSA-Masters/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aman23ks/DSA-Masters/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aman23ks/DSA-Masters/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/aman23ks/DSA-Masters/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aman23ks/DSA-Masters/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/aman23ks/DSA-Masters/tree/master/0402-remove-k-digits) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aman23ks/DSA-Masters/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/aman23ks/DSA-Masters/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/aman23ks/DSA-Masters/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aman23ks/DSA-Masters/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aman23ks/DSA-Masters/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aman23ks/DSA-Masters/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
